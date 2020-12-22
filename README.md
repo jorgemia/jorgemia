@@ -5,6 +5,8 @@ I'm a recent graduate in Integrated Design Engineering - think mechanical engine
 
 I've been exploring outdoor autonomous navigation and mapping to hopefully get a working robot that can navigate in unstructured environments! Find any public repos below. 😄
 
+![IMG_0257](https://user-images.githubusercontent.com/9326938/102934463-7436b600-44a4-11eb-80e8-cfa3284f9e3d.JPG)
+
 
 <!--
 **jorgemia/jorgemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
