@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I'm a recent graduate in Integrated Design Engineering - think mechanical engineering with a bit of software, electronics and creativity - currently learning robotics, computer vision and ML. There's a lot to learn but I'm here for it! 🤓
+
+I've been exploring outdoor autonomous navigation and mapping to hopefully get a working robot that can navigate in unstructured environments!
+
+
 <!--
 **jorgemia/jorgemia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
