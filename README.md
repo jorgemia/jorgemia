@@ -3,7 +3,7 @@
 
 I'm a recent graduate in Integrated Design Engineering - think mechanical engineering with a bit of software, electronics and creativity - currently learning robotics, computer vision and ML. There's a lot to learn but I'm here for it! 🤓
 
-I've been exploring outdoor autonomous navigation and mapping to hopefully get a working robot that can navigate in unstructured environments!
+I've been exploring outdoor autonomous navigation and mapping to hopefully get a working robot that can navigate in unstructured environments! Find any public repos below. 😄
 
 
 <!--
